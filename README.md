@@ -1,16 +1,20 @@
 # General
-AskSensors IoT platform description
-AskSensors (https://asksensors.com) is an IoT platform designed to be the easiest application on the market, allowing users to connect, visualize and analyze their sensors data over the cloud.
+AskSensors IoT platform description:
 
-Get started: https://asksensors.com/gettingstarted.html
-Tutorials: https://asksensors.com/tutorials.html
-Live preview: https://www.youtube.com/channel/UCJpuJBbOpATbaKXNiHkfHgQ
-Instructables: https://www.instructables.com/member/askSensors/
+- AskSensors (https://asksensors.com) is an IoT platform designed to be the easiest application on the market, allowing users to connect, visualize and analyze their sensors data over the cloud.
 
-Community: https://community.asksensors.com
+- Get started: https://asksensors.com/gettingstarted.html
 
-Follow us:
-on Facebook: https://www.facebook.com/Asksensors/
-Tweeter: https://twitter.com/AskSensors
-LinkedIn: https://www.linkedin.com/company/asksensors/
+- Tutorials: https://asksensors.com/tutorials.html
+
+- Live preview: https://www.youtube.com/channel/UCJpuJBbOpATbaKXNiHkfHgQ
+
+- Instructables: https://www.instructables.com/member/askSensors/
+
+- join the Community: https://community.asksensors.com
+
+- Follow us on Facebook: https://www.facebook.com/Asksensors/
+
+- Tweeter: https://twitter.com/AskSensors
+- LinkedIn: https://www.linkedin.com/company/asksensors/
 
