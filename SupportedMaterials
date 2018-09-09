@@ -1,13 +1,11 @@
 AskSensors supports networkable micro-controllers, bridges and materials inclusing ESP8266, Arduino, Raspberry Pi and more.
 Feel free to connect your own hardware to AskSensors, and share it with the community!
 
-- Arduino: Arduino Uno, Nano, Mini, Due, Mega, etc
+Tested platforms:
 
-- ESP8266: Generic, NodeMCU, Huzzah, etc.
-
-- ESP32 WiFi.
-
-- Raspberry Pi.
-
-- Node.js: on Regular PC with Linux / macOS/ Windows and browsers
+1) Arduino: Arduino Uno, Nano, Mini, Due, Mega, etc
+2) ESP8266: Generic, NodeMCU, Huzzah, etc.
+3) ESP32.
+4) Raspberry Pi.
+5) Node.js: on Regular PC with Linux / macOS/ Windows and browsers
 
