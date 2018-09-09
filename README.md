@@ -15,6 +15,7 @@ AskSensors IoT platform description:
 
 - Follow us on Facebook: https://www.facebook.com/Asksensors/
 
-- Tweeter: https://twitter.com/AskSensors
+- Twitter: https://twitter.com/AskSensors
+
 - LinkedIn: https://www.linkedin.com/company/asksensors/
 
